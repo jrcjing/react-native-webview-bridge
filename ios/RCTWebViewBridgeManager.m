@@ -14,7 +14,9 @@
 
 #import <React/RCTBridge.h>
 #import <React/RCTUIManager.h>
+#import <React/RCTViewManager.h>
 #import <React/RCTWebViewBridge.h>
+#import <React/RCTView.h>
 #import <React/UIView+React.h>
 
 @interface RCTWebViewBridgeManager () <RCTWebViewBridgeDelegate>
